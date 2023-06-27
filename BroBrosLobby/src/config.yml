@@ -1,0 +1,8 @@
+#
+#	BroBrosLobby
+#
+#
+
+world: 'lobby'
+disableClickGuiInventoires: true
+disableClickAllInventories: true
